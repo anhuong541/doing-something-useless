@@ -13,24 +13,24 @@ export default function WomensDayCard() {
 
   const messages = [
     {
-      img: 'https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=400',
-      text: 'Chúc bạn luôn vui vẻ, xinh đẹp và ngập tràn yêu thương!',
+      img: './assets/a1.jpg', //Thay ảnh
+      text: 'Chúc bạn luôn vui vẻ, xinh đẹp và ngập tràn yêu thương!', //Thay lời nhắn
     },
     {
-      img: 'https://images.unsplash.com/photo-1487070183336-b863922373d4?w=400',
+      img: './assets/a2.jpg',
       text: 'Mỗi ngày của bạn đều là một đoá hoa nở rộ.',
     },
     {
-      img: 'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400',
+      img: './assets/a3.jpg',
       text: 'Mong từ nay bạn sẽ luôn nở nụ cười ở trên môi thay vì lau đi nước mắt đêm khuya!',
     },
     {
-      img: 'https://images.unsplash.com/photo-1563241527-3004b7be0ffd?w=400',
-      text: 'Chúc bạn một ngày 20/10 thật hạnh phúc và trọn vẹn!',
+      img: './assets/a4.jpg',
+      text: 'Chúc bạn một ngày 20/10 thật hạnh phúc và trọn vẹn! ',
     },
     {
-      img: 'https://images.unsplash.com/photo-1502124225665-6282a0146f6f?w=400',
-      text: 'Mong những điều tích cực sẽ luôn tới với bạn!',
+      img: './assets/a5.jpg',
+      text: 'Mong những điều tích cực sẽ luôn tới với bạn! ',
     },
   ]
 
